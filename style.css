@@ -124,7 +124,6 @@ label {
  body {
      background-image: url(bg-intro-mobile.png);
      max-width: 375px !important;
-     max-height: 667px !important;
  }
  .container {
      display: flex !important;
