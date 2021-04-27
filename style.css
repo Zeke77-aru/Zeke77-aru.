@@ -129,7 +129,6 @@ label {
      display: flex !important;
      flex-direction: column !important;
      max-width: 100% !important;
-     overflow: visible;
 }
 h1 {
     font-size: 30px;
@@ -163,6 +162,4 @@ button {
 .p-1{
     text-align: center;
 }
-  .form {
-    margin-top 50px;
 }
