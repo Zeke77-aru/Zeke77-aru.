@@ -120,7 +120,7 @@ label {
       font-family: 'Poppins';
       
   }
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 500px) {
  body {
      background-image: url(bg-intro-mobile.png);
      max-width: 375px !important;
